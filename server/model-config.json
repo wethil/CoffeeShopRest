@@ -16,5 +16,13 @@
   "CoffeeShop": {
     "dataSource": "csMYSQL",
     "public": true
+  },
+  "Review": {
+    "dataSource": "csMONGO",
+    "public": true
+  },
+  "Reviewer": {
+    "dataSource": "csMONGO",
+    "public": true
   }
 }
